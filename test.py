@@ -16,5 +16,10 @@ print ("Slim shady")
 
 #===
 print ("Author - Eminem")
-<<<<<<< HEAD
+
 conflict = [0,5] #Любовь победила
+
+#===
+deviz = "Daz ciel wierd erraicht weirden!"
+for i in deviz:
+    print (i," ", end="")
