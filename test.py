@@ -16,4 +16,5 @@ print ("Slim shady")
 
 #===
 print ("Author - Eminem")
-conflict = 5 #Я верю в превосходство пятёрок
+<<<<<<< HEAD
+conflict = [0,5] #Любовь победила
