@@ -16,3 +16,4 @@ print ("Slim shady")
 
 #===
 print ("Author - Eminem")
+conflict = 0 #Нули правят миром
